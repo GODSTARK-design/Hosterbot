@@ -89,7 +89,7 @@ OWNER_ID = 6675486524  # Replace with your actual ID
 ADMIN_ID = 6675486524
 
 # ✅ Step 2: THEN this line should come
-TOKEN = "7843715274:AAGyoPSFHdw_HbsTpZ_QhYWx7uCFdl6TYag"
+TOKEN = "7843715274:AAEg-3g_QxdC5WKSe7tTb-_haohn5eqhJYc"
 try:
     bot = telebot.TeleBot(TOKEN)
     bot.get_me()  # Token valid hai ya nahi, yeh check karein
